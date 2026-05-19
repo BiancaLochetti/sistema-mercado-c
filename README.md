@@ -63,3 +63,9 @@ Clientes com fidelidade recebem:
 ## Objetivo do projeto
 
 Projeto desenvolvido para fins acadêmicos, com o objetivo de praticar lógica de programação e a utilização de structs, vetores e matrizes em linguagem C.
+
+---
+
+## Licença
+
+Projeto desenvolvido para estudo e prática.
